@@ -9,9 +9,4 @@ print "Just making some small changes"
 print "shouldnt ruin anything right??"
 print "git is the best"
 
-print "I hope no one breaks this"
-
-
-print "I editttted"
-
-print "I edied"
+print "I hope no one brea this"
