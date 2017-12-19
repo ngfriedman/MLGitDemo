@@ -11,4 +11,4 @@ print "git is the best"
 
 print "I hope no one breaks this"
 
-print "I editted"
+print "I edied"
